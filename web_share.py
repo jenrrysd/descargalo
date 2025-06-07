@@ -136,6 +136,16 @@ class CustomRequestHandler(http.server.SimpleHTTPRequestHandler):
                     </li>'''
 
             html += """</ul>
+
+            
+             <div>
+                <footer>
+                    <p>Creado por Jenrry Soto Dextre</p>
+                    <p><a href="https://dextre.xyz"target="_blank">Web: https://dextre.xyz</a></p>
+                </footer>
+            </div>
+
+            
     </body>
     </html>"""
 
